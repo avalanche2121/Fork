@@ -1,0 +1,8 @@
+C:\Users\Albert\Documents\GitHub\Albert Fork\ReachCom\ExcelUtility\bin\Debug\ExcelUtility.dll
+C:\Users\Albert\Documents\GitHub\Albert Fork\ReachCom\ExcelUtility\bin\Debug\ExcelUtility.pdb
+C:\Users\Albert\Documents\GitHub\Albert Fork\ReachCom\ExcelUtility\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Albert\Documents\GitHub\Albert Fork\ReachCom\ExcelUtility\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Albert\Documents\GitHub\Albert Fork\ReachCom\ExcelUtility\obj\Debug\ExcelUtility.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\GitHub\Albert Fork\ReachCom\ExcelUtility\obj\Debug\ExcelUtility.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\GitHub\Albert Fork\ReachCom\ExcelUtility\obj\Debug\ExcelUtility.dll
+C:\Users\Albert\Documents\GitHub\Albert Fork\ReachCom\ExcelUtility\obj\Debug\ExcelUtility.pdb
